@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @N8ori0us
 - 👀 I’m interested in making music, cooking, connecting, creating, sunsets, long walks on the beach... 
 LOL. Really thoough, I was living in windward Oahu, Hawaii until COVID and really miss the beaches.  
-- 🌱 I’m currently learning to code. HAHA I'm taking a course on bootstrap that's part of a full stack web/mobile
-developement bootcamp through Nucamp rn but just completed their DevOps w/ Python & SQL bootcamp last month.
-- 💞️ I’m looking to collaborate on anything that anyone needs help with. The bootcamps are cursory and mostly
-show what's possible, what to study and how to build simple apps/ I need experience working on real projects.
+- 🌱 Recently completed several coding bootcamps and trying to get experience and hopefully find some work. Making this a career would be a dream but I am still pretty green and dont expect things to happen all that quick
+- 💞️ I’m looking to collaborate on anything that anyone needs help with. The bootcamps opened my mind to the possibilities
+show what's possible, what and how to study and build simple apps but I want to get as much experience working on real projects.
 - 📫 How to reach me {
 -     ig: ' @n8or1ous ',
 -     twitter: '@n8orious',
